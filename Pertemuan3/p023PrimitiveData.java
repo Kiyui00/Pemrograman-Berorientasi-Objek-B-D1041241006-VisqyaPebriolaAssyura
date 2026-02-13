@@ -3,7 +3,6 @@ NIM: D1041241006
 Tanggal: 5 Februari 2026 
 */
 package Pertemuan3;
-
 public class p023PrimitiveData {
     public static void main(String[] args){
         int umur = 20;
