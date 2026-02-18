@@ -1,0 +1,14 @@
+Nama: Visqya Pebriola Assyura  
+NIM: D1041241006
+
+Dalam pembelajaran pemrograman Java, saya memahami bahwa naming convention adalah aturan atau standar dalam memberikan nama pada class, variabel, maupun konstanta agar kode lebih terstruktur, mudah dipahami, menjaga keterbacaan dan konsistensi program. 
+
+Penamaan variabel dan class sangat penting karena berpengaruh langsung terhadap pemahaman logika program. Jika nama variabel jelas dan deskriptif, maka fungsi dari variabel tersebut akan lebih mudah dipahami tanpa harus menelusuri seluruh kode. Sebaliknya, jika menggunakan singkatan yang tidak jelas atau nama yang terlalu umum, program akan sulit dipahami dan berpotensi menimbulkan kesalahan karena keliru akan nama variabel tersebut. Dalam praktiknya, saya menyadari bahwa memilih nama seperti jumlahStok lebih baik dibandingkan jumStok karena lebih jelas dan tidak membingungkan.
+
+Selain itu, saya juga memahami cara kerja operator aritmatika dalam Java. Operator seperti +, -, *, /, dan % digunakan untuk melakukan operasi matematika dasar. Dalam latihan kalkulator sederhana, saya melihat bahwa ketika dua bilangan bertipe int dibagi menggunakan operator /, hasilnya juga berupa int, sehingga angka desimal akan dibulatkan ke bawah. Contohnya, 25 dibagi 4 menghasilkan 6, bukan 6.25. Untuk mendapatkan hasil desimal, perlu dilakukan type casting dengan mengubah salah satu operand menjadi double. Ini menunjukkan bahwa tipe data sangat memengaruhi hasil operasi aritmatika.
+
+Dari latihan yang saya kerjakan, salah satu hal yang saya pahami adalah pentingnya memahami penanganan tipe data yang tepat untuk setiap variabel yang ada. Contohnya adalah pembagian variabel dengan tipe int akan tetap menghasilkan bilangan bulat bukan desimal. Pemahaman akan tipe data ini akan sangat memengaruhi output, dalam hal ini akan memengaruhi hasil operasi aritmatika.
+
+Sejauh ini, kesulitan yang saya alami bukan pada konsep dasarnya, tetapi pada kurangnya ketelitian saat menulis kode. Terkadang program mengalami error hanya karena kesalahan kecil seperti typo, kurang tanda titik koma, atau salah penulisan nama variabel. Hal ini membuat saya menyadari bahwa dalam pemrograman, ketelitian sangat penting karena komputer membaca instruksi secara persis sesuai yang ditulis. Kesalahan kecil sekalipun dapat menyebabkan program tidak dapat dijalankan.
+
+Secara keseluruhan, saya memahami bahwa pemrograman tidak hanya tentang memahami teori, tetapi juga tentang membiasakan diri menulis kode dengan rapi, konsisten, dan teliti agar terhindar dari kesalahan yang sebenarnya sederhana namun berdampak besar.
