@@ -1,4 +1,5 @@
-/*Nama: Visqya Pebriola Assyura  
+/*
+Nama: Visqya Pebriola Assyura  
 NIM: D1041241006
 Tanggal: 25 Februari 2026 
 */
@@ -11,8 +12,8 @@ public class LatihanTotalGenap {
         int total = 0;
 
         for (int tambah = 1; tambah <= 20; tambah++) {
-            if(tambah % 2 != 0) {
-                continue;
+            if(tambah % 2 != 0) { // harus dicek dulu agar yang dijumlahkan hanya angka genap
+                continue; // di skip untuk angka ganjil
             }
 
             total += tambah;
