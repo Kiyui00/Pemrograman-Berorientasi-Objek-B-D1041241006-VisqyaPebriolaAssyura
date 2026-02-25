@@ -31,7 +31,7 @@ public class LatihanRefleksi {
 
         /*
             menurut saya, dalam kasus seperti ini,
-            jenis loop yang paling mudah dipahami adalah menggunakan for-loop karena kita sudah tau range loop dari berapa sampai berapa,
+            jenis loop yang paling mudah dipahami dan cocok adalah menggunakan for-loop karena kita sudah tau pasti berapa jumlah loop yang diinginkan,
             sehingga program yang ditulis menjadi jauh lebih ringkas dan sederhana karena kita hanya perlu men-state kondisi mulai range berapa sampai berapa saja.
         */
 
