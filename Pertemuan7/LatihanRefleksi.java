@@ -16,7 +16,7 @@ public class LatihanRefleksi {
         }
 
         System.out.println("\n\n=== MENGGUNAKAN DO-WHILE ===");
-
+        
         angka = 1;
         do { 
             System.out.print(angka + " ");
@@ -28,6 +28,12 @@ public class LatihanRefleksi {
         for(int i = 1; i <= 5; i++) {
             System.out.print(i + " ");
         }
+
+        /*
+            menurut saya, dalam kasus seperti ini,
+            jenis loop yang paling mudah dipahami dan cocok adalah menggunakan for-loop karena kita sudah tau pasti berapa jumlah loop yang diinginkan,
+            sehingga program yang ditulis menjadi jauh lebih ringkas dan sederhana karena kita hanya perlu men-state kondisi mulai range berapa sampai berapa saja.
+        */
 
     }
 }

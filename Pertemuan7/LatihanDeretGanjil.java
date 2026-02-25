@@ -11,11 +11,8 @@ public class LatihanDeretGanjil {
         System.out.println("=== BILANGAN GANJIL 1-15 ===");
 
         while(angka <= 15) {
-            if(angka % 2 != 0) {
-                System.out.print(angka + " ");
-            }
-
-            angka++;
+            System.out.print(angka + " ");
+            angka+=2;
         }
     }
 }
